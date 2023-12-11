@@ -36,3 +36,6 @@ plt.title('K-means Kümeleme')
 plt.xlabel('x1')
 plt.ylabel('x2')
 plt.show()
+
+
+#pandas numpy sklearn kütüphanesini ekledim  (pip install pandas numpy sklearn)
